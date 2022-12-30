@@ -20,5 +20,4 @@ spring:
           timeout: 5
           clone-on-start: true
           force-pull: true
-          username: PavelCastle
-          password: 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
+
